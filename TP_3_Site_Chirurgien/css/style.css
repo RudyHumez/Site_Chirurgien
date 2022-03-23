@@ -1,0 +1,55 @@
+.rudy {
+  padding-top: 120px;
+}
+
+.ourdep {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.ourdep p {
+  font-size: 1.1rem;
+  padding: 10px;
+}
+
+.ourdep h2 {
+  font-size: 2.5rem;
+}
+
+.ourdep h5 {
+  font-size: 1.5rem;
+}
+
+.carte {
+  margin-top: 50px;
+}
+
+.carte img {
+  height: 230px;
+}
+
+.card {
+  margin: 15px;
+  text-align: left;
+}
+
+#carouselExampleCaptions img {
+  height: 625px;
+}
+
+#carouselExampleCaptions h2 {
+  font-size: 2.5rem;
+}
+
+#carouselExampleCaptions p {
+  font-size: 1.5rem;
+}
+
+.carousel-caption {
+  height: 100%;
+  display: flex !important;
+}
+
+.carousel-caption h5 {
+  font-size: 0.8rem;
+}
